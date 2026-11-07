@@ -1,0 +1,9 @@
+{
+  "version":,
+  "name": "MyBlenderAsset",
+  "metadata": {
+    "description": "Kho lưu trữ tài sản Blender từ xa của tôi",
+    "author": "NguyenTuan-Tee"
+  },
+  "catalogs": []
+}
